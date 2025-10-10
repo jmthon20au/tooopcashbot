@@ -212,7 +212,7 @@ def send_all_files(message):
         'edit.json',
         'config.json',
         'loan.json',
-        'withdrawals.json'
+        'withdrawals.json', 
         'a.json'
     ]
     
