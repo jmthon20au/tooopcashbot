@@ -213,6 +213,7 @@ def send_all_files(message):
         'config.json',
         'loan.json',
         'withdrawals.json'
+        'a.json'
     ]
     
     # وصف لكل ملف يتم إرساله
@@ -224,7 +225,8 @@ def send_all_files(message):
         'edit.json': "الهدية اليومية و رابط الاحالة",
         'config.json': "ملف تشغيل ارسال العدادت",
         'loan.json': "ملف القروض ",
-        'withdrawals.json': "ملف عمليات السحب"
+        'withdrawals.json': "ملف عمليات السحب",
+        'a.json':  " ملفات عدادات المسثمرين 
     }
 
     files_found = 0
@@ -3631,4 +3633,5 @@ def save_agents(agents_data):
 threading.Thread(target=loan_repayment_checker, daemon=True).start()                            
 # --- تشغيل البوت ---
 if __name__ == "__main__":
+
     bot.polling(none_stop=True)
