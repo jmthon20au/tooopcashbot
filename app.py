@@ -226,7 +226,7 @@ def send_all_files(message):
         'config.json': "ملف تشغيل ارسال العدادت",
         'loan.json': "ملف القروض ",
         'withdrawals.json': "ملف عمليات السحب",
-        'a.json':  " ملفات عدادات المسثمرين 
+        'a.json':  " ملفات عدادات المسثمرين"
     }
 
     files_found = 0
