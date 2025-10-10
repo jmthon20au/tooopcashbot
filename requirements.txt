@@ -1,0 +1,4 @@
+gunicorn
+pyTelegramBotAPI
+pytz
+telebot

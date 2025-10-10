@@ -1,0 +1,47 @@
+{
+    "\u0639\u062f\u0627\u062f 100": {
+        "price": 1600,
+        "is_counter": true,
+        "counter": 100
+    },
+    "\u0639\u062f\u0627\u062f 250": {
+        "price": 40000,
+        "is_counter": true,
+        "counter": 250
+    },
+    "\u0639\u062f\u0627\u062f 500": {
+        "price": 80000,
+        "is_counter": true,
+        "counter": 500
+    },
+    "\u0639\u062f\u0627\u062f 1000": {
+        "price": 158000,
+        "is_counter": true,
+        "counter": 1000
+    },
+    "\u0639\u062f\u0627\u062f 2500": {
+        "price": 395000,
+        "is_counter": true,
+        "counter": 2500
+    },
+    "\u0639\u062f\u0627\u062f 5000": {
+        "price": 775000,
+        "is_counter": true,
+        "counter": 5000
+    },
+    "\u0639\u062f\u0627\u062f 10000": {
+        "price": 1540000,
+        "is_counter": true,
+        "counter": 10000
+    },
+    "\u0639\u062f\u0627\u062f 25000": {
+        "price": 3825000,
+        "is_counter": true,
+        "counter": 25000
+    },
+    "\u0639\u062f\u0627\u062f 50000": {
+        "price": 7500000,
+        "is_counter": true,
+        "counter": 50000
+    }
+}
