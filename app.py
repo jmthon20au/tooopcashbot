@@ -22,7 +22,7 @@ def get_file_size(size_in_bytes):
 async def start(client, message):
     await message.reply_text(
         "أهلاً بك! أرسل ملف Zip وسأقوم بتحليله وفكه لك بالتفصيل 📁⚡",
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("قناتي", url="https://t.me/xx28x")]])
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Dev", url="https://t.me/xx28z")]])
     )
 
 @app.on_message(filters.document)
